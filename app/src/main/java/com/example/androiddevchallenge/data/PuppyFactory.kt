@@ -13,7 +13,7 @@ object PuppyFactory {
             gender = "Male",
             race = "Berger",
             color = "Brown",
-            description = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel consequat ligula, sit amet suscipit erat. Maecenas scelerisque vitae sapien nec condimentum. Phasellus ac massa nec nibh mattis aliquet at quis ligula. Duis pretium diam id placerat volutpat. Integer imperdiet est molestie venenatis interdum. Vivamus aliquam dui ac ex placerat ultricies. Duis ipsum augue, vestibulum sit amet sagittis eget, luctus quis erat. Phasellus urna ipsum, malesuada ut consequat lacinia, efficitur id ipsum. Morbi eleifend vehicula dui, eget scelerisque mi viverra sed. Nam non tempor enim. Nulla pretium dictum felis, sodales sagittis urna ornare a. Donec laoreet neque sit amet mauris iaculis volutpat eget eget dui.",
             image = R.drawable.puppy_1
         ),
         Puppy(
@@ -23,7 +23,7 @@ object PuppyFactory {
             gender = "Female",
             race = "Golden Retriever",
             color = "Black",
-            description = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel consequat ligula, sit amet suscipit erat. Maecenas scelerisque vitae sapien nec condimentum. Phasellus ac massa nec nibh mattis aliquet at quis ligula. Duis pretium diam id placerat volutpat. Integer imperdiet est molestie venenatis interdum. Vivamus aliquam dui ac ex placerat ultricies. Duis ipsum augue, vestibulum sit amet sagittis eget, luctus quis erat. Phasellus urna ipsum, malesuada ut consequat lacinia, efficitur id ipsum. Morbi eleifend vehicula dui, eget scelerisque mi viverra sed. Nam non tempor enim. Nulla pretium dictum felis, sodales sagittis urna ornare a. Donec laoreet neque sit amet mauris iaculis volutpat eget eget dui.",
             image = R.drawable.puppy_2
         ),
         Puppy(
@@ -33,7 +33,7 @@ object PuppyFactory {
             gender = "Male",
             race = "Shiba Inu",
             color = "Orange",
-            description = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel consequat ligula, sit amet suscipit erat. Maecenas scelerisque vitae sapien nec condimentum. Phasellus ac massa nec nibh mattis aliquet at quis ligula. Duis pretium diam id placerat volutpat. Integer imperdiet est molestie venenatis interdum. Vivamus aliquam dui ac ex placerat ultricies. Duis ipsum augue, vestibulum sit amet sagittis eget, luctus quis erat. Phasellus urna ipsum, malesuada ut consequat lacinia, efficitur id ipsum. Morbi eleifend vehicula dui, eget scelerisque mi viverra sed. Nam non tempor enim. Nulla pretium dictum felis, sodales sagittis urna ornare a. Donec laoreet neque sit amet mauris iaculis volutpat eget eget dui.",
             image = R.drawable.puppy_3
         ),
         Puppy(
@@ -43,7 +43,7 @@ object PuppyFactory {
             gender = "Female",
             race = "Labrador",
             color = "Grey",
-            description = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel consequat ligula, sit amet suscipit erat. Maecenas scelerisque vitae sapien nec condimentum. Phasellus ac massa nec nibh mattis aliquet at quis ligula. Duis pretium diam id placerat volutpat. Integer imperdiet est molestie venenatis interdum. Vivamus aliquam dui ac ex placerat ultricies. Duis ipsum augue, vestibulum sit amet sagittis eget, luctus quis erat. Phasellus urna ipsum, malesuada ut consequat lacinia, efficitur id ipsum. Morbi eleifend vehicula dui, eget scelerisque mi viverra sed. Nam non tempor enim. Nulla pretium dictum felis, sodales sagittis urna ornare a. Donec laoreet neque sit amet mauris iaculis volutpat eget eget dui.",
             image = R.drawable.puppy_4
         ),
         Puppy(
@@ -53,7 +53,7 @@ object PuppyFactory {
             gender = "Male",
             race = "Berger",
             color = "Grey",
-            description = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel consequat ligula, sit amet suscipit erat. Maecenas scelerisque vitae sapien nec condimentum. Phasellus ac massa nec nibh mattis aliquet at quis ligula. Duis pretium diam id placerat volutpat. Integer imperdiet est molestie venenatis interdum. Vivamus aliquam dui ac ex placerat ultricies. Duis ipsum augue, vestibulum sit amet sagittis eget, luctus quis erat. Phasellus urna ipsum, malesuada ut consequat lacinia, efficitur id ipsum. Morbi eleifend vehicula dui, eget scelerisque mi viverra sed. Nam non tempor enim. Nulla pretium dictum felis, sodales sagittis urna ornare a. Donec laoreet neque sit amet mauris iaculis volutpat eget eget dui.",
             image = R.drawable.puppy_5
         ),
         Puppy(
@@ -63,7 +63,7 @@ object PuppyFactory {
             gender = "Female",
             race = "Berger",
             color = "Orange",
-            description = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel consequat ligula, sit amet suscipit erat. Maecenas scelerisque vitae sapien nec condimentum. Phasellus ac massa nec nibh mattis aliquet at quis ligula. Duis pretium diam id placerat volutpat. Integer imperdiet est molestie venenatis interdum. Vivamus aliquam dui ac ex placerat ultricies. Duis ipsum augue, vestibulum sit amet sagittis eget, luctus quis erat. Phasellus urna ipsum, malesuada ut consequat lacinia, efficitur id ipsum. Morbi eleifend vehicula dui, eget scelerisque mi viverra sed. Nam non tempor enim. Nulla pretium dictum felis, sodales sagittis urna ornare a. Donec laoreet neque sit amet mauris iaculis volutpat eget eget dui.",
             image = R.drawable.puppy_6
         ),
         Puppy(
@@ -73,7 +73,7 @@ object PuppyFactory {
             gender = "Male",
             race = "Berger",
             color = "Grey",
-            description = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel consequat ligula, sit amet suscipit erat. Maecenas scelerisque vitae sapien nec condimentum. Phasellus ac massa nec nibh mattis aliquet at quis ligula. Duis pretium diam id placerat volutpat. Integer imperdiet est molestie venenatis interdum. Vivamus aliquam dui ac ex placerat ultricies. Duis ipsum augue, vestibulum sit amet sagittis eget, luctus quis erat. Phasellus urna ipsum, malesuada ut consequat lacinia, efficitur id ipsum. Morbi eleifend vehicula dui, eget scelerisque mi viverra sed. Nam non tempor enim. Nulla pretium dictum felis, sodales sagittis urna ornare a. Donec laoreet neque sit amet mauris iaculis volutpat eget eget dui.",
             image = R.drawable.puppy_7
         ),
         Puppy(
@@ -83,7 +83,7 @@ object PuppyFactory {
             gender = "Male",
             race = "Shiba Inu",
             color = "Orange",
-            description = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel consequat ligula, sit amet suscipit erat. Maecenas scelerisque vitae sapien nec condimentum. Phasellus ac massa nec nibh mattis aliquet at quis ligula. Duis pretium diam id placerat volutpat. Integer imperdiet est molestie venenatis interdum. Vivamus aliquam dui ac ex placerat ultricies. Duis ipsum augue, vestibulum sit amet sagittis eget, luctus quis erat. Phasellus urna ipsum, malesuada ut consequat lacinia, efficitur id ipsum. Morbi eleifend vehicula dui, eget scelerisque mi viverra sed. Nam non tempor enim. Nulla pretium dictum felis, sodales sagittis urna ornare a. Donec laoreet neque sit amet mauris iaculis volutpat eget eget dui.",
             image = R.drawable.puppy_8
         ),
         Puppy(
@@ -93,7 +93,7 @@ object PuppyFactory {
             gender = "Female",
             race = "Border Collie",
             color = "Black/White",
-            description = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel consequat ligula, sit amet suscipit erat. Maecenas scelerisque vitae sapien nec condimentum. Phasellus ac massa nec nibh mattis aliquet at quis ligula. Duis pretium diam id placerat volutpat. Integer imperdiet est molestie venenatis interdum. Vivamus aliquam dui ac ex placerat ultricies. Duis ipsum augue, vestibulum sit amet sagittis eget, luctus quis erat. Phasellus urna ipsum, malesuada ut consequat lacinia, efficitur id ipsum. Morbi eleifend vehicula dui, eget scelerisque mi viverra sed. Nam non tempor enim. Nulla pretium dictum felis, sodales sagittis urna ornare a. Donec laoreet neque sit amet mauris iaculis volutpat eget eget dui.",
             image = R.drawable.puppy_9
         ),
         Puppy(
@@ -103,7 +103,7 @@ object PuppyFactory {
             gender = "Male",
             race = "Sharpey",
             color = "Brown",
-            description = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,",
+            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel consequat ligula, sit amet suscipit erat. Maecenas scelerisque vitae sapien nec condimentum. Phasellus ac massa nec nibh mattis aliquet at quis ligula. Duis pretium diam id placerat volutpat. Integer imperdiet est molestie venenatis interdum. Vivamus aliquam dui ac ex placerat ultricies. Duis ipsum augue, vestibulum sit amet sagittis eget, luctus quis erat. Phasellus urna ipsum, malesuada ut consequat lacinia, efficitur id ipsum. Morbi eleifend vehicula dui, eget scelerisque mi viverra sed. Nam non tempor enim. Nulla pretium dictum felis, sodales sagittis urna ornare a. Donec laoreet neque sit amet mauris iaculis volutpat eget eget dui.",
             image = R.drawable.puppy_10
         )
     )
