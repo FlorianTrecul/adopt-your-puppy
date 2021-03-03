@@ -7,8 +7,8 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.navArgument
 import androidx.navigation.compose.rememberNavController
-import com.example.androiddevchallenge.components.PuppiesList
-import com.example.androiddevchallenge.components.PuppyDetail
+import com.example.androiddevchallenge.components.PuppyHomeScreen
+import com.example.androiddevchallenge.components.PuppyDetailScreen
 import com.example.androiddevchallenge.data.PuppyFactory
 
 @ExperimentalFoundationApi
@@ -18,13 +18,13 @@ fun AppNavigator() {
 
     NavHost(navController = navController, startDestination = "puppyHome") {
         composable("puppyHome") {
-            PuppiesList(navController, PuppyFactory.puppyList)
+            PuppyHomeScreen(navController = navController, PuppyFactory.puppyList)
         }
         composable(
             "puppyDetail/{puppyId}",
             arguments = listOf(navArgument("puppyId") { type = NavType.IntType })
         ) {backStackEntry ->
-            PuppyDetail(navController, backStackEntry.arguments?.getInt("puppyId") ?: 0)
+            PuppyDetailScreen(navController = navController, backStackEntry.arguments?.getInt("puppyId") ?: 0)
         }
     }
 }

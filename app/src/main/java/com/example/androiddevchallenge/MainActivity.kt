@@ -42,15 +42,7 @@ class MainActivity : AppCompatActivity() {
 @ExperimentalFoundationApi
 @Composable
 fun PuppyHome() {
-    Scaffold(
-        topBar = {
-            TopAppBar(
-                title = { Text("Adopt Your Puppy") },
-                backgroundColor = MaterialTheme.colors.primaryVariant
-            )
-        },
-        content = { AppNavigator() },
-    )
+    AppNavigator()
 }
 
 @ExperimentalFoundationApi
