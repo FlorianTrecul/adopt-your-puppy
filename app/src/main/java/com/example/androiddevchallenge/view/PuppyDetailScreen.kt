@@ -1,4 +1,4 @@
-package com.example.androiddevchallenge.components
+package com.example.androiddevchallenge.view
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
@@ -14,6 +14,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
+import com.example.androiddevchallenge.components.GenderIconTag
 import com.example.androiddevchallenge.data.PuppyFactory
 import dev.chrisbanes.accompanist.coil.CoilImage
 
