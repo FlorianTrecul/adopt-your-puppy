@@ -23,16 +23,16 @@ import androidx.compose.runtime.Composable
 
 @Composable
 fun darkTheme() = darkColors(
-    primary = purple200,
-    primaryVariant = purple700,
-    secondary = purple500
+    primary = green500,
+    primaryVariant = green700,
+    secondary = teal200
 )
 
 @Composable
 fun lightTheme() = lightColors(
-    primary = purple200,
-    primaryVariant = purple700,
-    secondary = purple500
+    primary = green200,
+    primaryVariant = green700,
+    secondary = teal200
 )
 
 @Composable

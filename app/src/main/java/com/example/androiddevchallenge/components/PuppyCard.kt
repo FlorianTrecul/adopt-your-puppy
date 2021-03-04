@@ -46,20 +46,17 @@ fun PuppyCard(puppy: Puppy, onPuppyClicked: (id: Int) -> Unit) {
             ) {
                 Text(
                     text = puppy.name,
-                    color = MaterialTheme.colors.secondary,
                     fontWeight = FontWeight.Bold,
                     style = MaterialTheme.typography.subtitle1
                 )
                 Spacer(modifier = Modifier.height(8.dp))
                 Text(
                     text = "${puppy.age} months",
-                    color = MaterialTheme.colors.secondary,
                     style = MaterialTheme.typography.caption
                 )
                 Spacer(modifier = Modifier.height(8.dp))
                 Text(
                     text = puppy.race,
-                    color = MaterialTheme.colors.secondary,
                     style = MaterialTheme.typography.caption
                 )
             }
